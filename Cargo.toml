@@ -2,7 +2,10 @@
 name = "maco"
 version = "0.1.0"
 authors = ["naisuuuu"]
+repository = "https://github.com/naisuuuu/maco/"
 edition = "2018"
+description = "CLI tool and library used to convert manga for reading on e-ink devices."
+license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
